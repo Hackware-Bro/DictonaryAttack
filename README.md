@@ -1,6 +1,6 @@
 # DictonaryAttack
 
-## Python file working
+## Requirements
 you need to install a 3rd party Module named 'requests' to run this python file.
 
 Type this in the terminal to install:
